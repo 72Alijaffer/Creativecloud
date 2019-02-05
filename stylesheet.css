@@ -7,7 +7,7 @@ body{
 	font-family:'Slabo 27px', serif; 
 }
 header.startup{
-	background-image: url("C:/Users/alijaffer/Pictures/New Wall/jesus-kiteque-224069-unsplash.jpg");
+	background-image: url("jesus-kiteque-224069-unsplash.jpg");
 	background-position: center;
 	background-size: cover;
 	height: 100%;
@@ -45,6 +45,7 @@ header.startup hr{
 	font-weight: 500;
 	border-radius:500px;
 	font-family: 'Slabo 27px', serif; 
+	margin:100px 100px;
 
 }
 .btn-primary{
